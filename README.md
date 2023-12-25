@@ -15,6 +15,13 @@ https://paper-iib--tanaypratap.repl.co/
 4] Restaurant Details Page
 5]About Us Page
 
+# Technical Specifications
+  1] HTML,
+  2] CSS, 
+  3] JavaScript for dynamic functionality.
+  3]Bootstrap
+  4] RESTful API for backend communication.
+
 
 
 
